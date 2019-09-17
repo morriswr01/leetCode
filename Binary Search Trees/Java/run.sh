@@ -1,0 +1,2 @@
+javac constructBTFromInorderAndPreorder.java
+java constructBTFromInorderAndPreorder
